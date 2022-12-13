@@ -1,0 +1,104 @@
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Maze Rows=4 Cols=4
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Walls Row=0 Col=1
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Walls Row=0 Col=3
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Walls Row=1 Col=3
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Walls Row=2 Col=1
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Walls Row=3 Col=2
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Horizontal Walls Row=1 Col=1
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Horizontal Walls Row=2 Col=0
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Horizontal Walls Row=2 Col=2
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Horizontal Walls Row=3 Col=2
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Player Row=0 Col=0
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Message Row=0 Col=0 Message=Good morning!
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Message Row=0 Col=0 Message=Which way?
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: End Point Row=0 Col=3
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Message Row=0 Col=3 Message=Finished - well done!
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Vertical Door Row=1 Col=2 Color=1
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Horizontal Door Row=2 Col=3 Color=2
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Key Row=0 Col=1 Color=2
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Key Row=2 Col=0 Color=1
+Apr 25, 2022 6:40:27 AM edu.curtin.app.MazeGame readAndAdd
+INFO: Message Row=3 Col=2 Message=You stare blankly at a wall.
+Apr 25, 2022 6:40:30 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:40:33 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:40:35 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:40:36 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:40:38 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left
+Apr 25, 2022 6:40:40 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up
+Apr 25, 2022 6:40:43 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:40:45 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:40:49 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left
+Apr 25, 2022 6:40:52 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:40:53 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left
+Apr 25, 2022 6:40:55 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:40:57 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up
+Apr 25, 2022 6:40:58 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up
+Apr 25, 2022 6:41:00 AM edu.curtin.app.Maze checkKey
+INFO: Red door opens
+Apr 25, 2022 6:41:00 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right Through A Door
+Apr 25, 2022 6:41:02 AM edu.curtin.app.Maze checkKey
+INFO: Red door opens
+Apr 25, 2022 6:41:02 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left Through A Door
+Apr 25, 2022 6:41:04 AM edu.curtin.app.Maze checkKey
+INFO: Red door opens
+Apr 25, 2022 6:41:04 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right Through A Door
+Apr 25, 2022 6:41:11 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up
+Apr 25, 2022 6:41:13 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left
+Apr 25, 2022 6:41:14 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:41:16 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:41:18 AM edu.curtin.app.Maze checkKey
+INFO: Red door opens
+Apr 25, 2022 6:41:18 AM edu.curtin.app.Maze movement
+INFO: Player Moves Left Through A Door
+Apr 25, 2022 6:41:26 AM edu.curtin.app.Maze movement
+INFO: Player Moves Down
+Apr 25, 2022 6:41:28 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:41:29 AM edu.curtin.app.Maze movement
+INFO: Player Moves Right
+Apr 25, 2022 6:41:31 AM edu.curtin.app.Maze checkKey
+INFO: Green door opens
+Apr 25, 2022 6:41:31 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up Through A Door
+Apr 25, 2022 6:41:32 AM edu.curtin.app.Maze movement
+INFO: Player Moves Up
